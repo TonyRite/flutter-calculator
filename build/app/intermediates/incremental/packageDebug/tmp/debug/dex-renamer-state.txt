@@ -1,0 +1,4 @@
+#Fri Oct 22 20:55:01 EAT 2021
+base.0=/home/tony/Documents/cal_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
