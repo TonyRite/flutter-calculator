@@ -4,5 +4,5 @@
 A calculator
 
 ## Getting Started
-
-nb: u can open the calc.png file to see the design
+Just a minor flutter project
+Nb: u can open the calc.png file to see the design
